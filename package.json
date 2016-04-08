@@ -1,6 +1,6 @@
 {
   "name": "heroku-destroy-temp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Heroku CLI plugin to destroy temporary apps.",
   "main": "lib/index.js",
   "scripts": {},
