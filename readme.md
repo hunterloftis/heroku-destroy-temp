@@ -20,5 +20,5 @@ destroying apps... done
 ## Installation
 
 ```
-$ heroku plugins:install destroy-temp-apps
+$ heroku plugins:install heroku-destroy-temp
 ```
