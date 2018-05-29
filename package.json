@@ -9,6 +9,9 @@
   ],
   "author": "Hunter Loftis (@hunterloftis)",
   "license": "ISC",
+  "files": [
+    "/lib"
+  ],
   "dependencies": {
     "co": "4.6.0",
     "heroku-cli-util": "5.10.3",
