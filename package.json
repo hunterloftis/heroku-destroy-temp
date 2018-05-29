@@ -4,6 +4,9 @@
   "description": "Heroku CLI plugin to destroy temporary apps.",
   "main": "lib/index.js",
   "scripts": {},
+  "files": [
+    "/lib"
+  ],
   "keywords": [
     "heroku-plugin"
   ],
